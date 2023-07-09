@@ -1,0 +1,10 @@
+﻿global using Microsoft.EntityFrameworkCore;
+global using AutoMapper;
+global using MediatR;
+global using AutoMapper.QueryableExtensions;
+global using Dot7.Architecture.Application.Context;
+global using Microsoft.Extensions.Configuration;
+global using Microsoft.Extensions.DependencyInjection;
+global using System.Reflection;
+global using FluentValidation;
+global using Dot7.Architecture.Application.Common;
